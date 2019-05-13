@@ -5,7 +5,9 @@
 
             "product_name": "Sleek & Shine Shampoo",
        
-            "brand":"garnier",
+            "brand":"garnier fructis",
+
+            "product_description":"Smoothes got long-lasting frizz control and shine. Get 10X smoother and stay sleek for 3 days.",
        
             "price":"6.97"
        
@@ -16,6 +18,8 @@
             "product_name": "Sleek & Shine Conditioner",
        
             "brand":"garnier",
+
+            "product_description":"Get up to 3 day sleek and shine system of shampoo, conditioner and leave-in cream",
        
             "price":"6.97"
        
@@ -26,6 +30,8 @@
             "product_name": "Shea Butter Leave-In Conditioner",
         
             "brand":"Cantu",
+
+            "product_description":"Provides instense moisture to leave hair soft and managable",
         
             "price":"5.97"
         
@@ -36,6 +42,8 @@
             "product_name": "It's A 10 Miracle Leave-In Conditioner",
         
             "brand":"It's A 10",
+
+            "product_description":"Repairs dry, damaged hair while adding shine. Will detangle and control frizz, while sealing and protecting hair and preventing split ends and breakage.",
         
             "price":"24.99"
         
@@ -46,6 +54,8 @@
             "product_name": "Weightless Shine Leave-In Conditioner",
         
             "brand":"Kristin Ess",
+
+            "product_description":"",
         
             "price":"10.00"
         
@@ -346,6 +356,8 @@
              "product_name": "Coconut Oil Formula Coconut Oil Leave-in Conditioner",
         
              "brand":"Palmer's",
+
+             "product_description":"Instantly detangles, putting an end to tugging and pulling at knotty, unruly hair.",
         
              "price":"5.97"
         
@@ -392,6 +404,8 @@
         "product_name": "Root Pump Plus Humidity Resistance Volumizing Spray",
      
         "brand":"Big Sexy Hair",
+
+        "product_description":"A humidity-resistant volumizing spray mousse that helps you create big volume by pumping up the roor with extra hold.",
      
         "price":"14.62"
       }, 
@@ -401,6 +415,8 @@
         "product_name": "Sky-Hi Volume Volumizing Mouse",
      
         "brand":"Garnier Fructis",
+
+        "product_description":"Volumizing mousse gives hair high reaching volume and 24-hour hold",
      
         "price":"3.42"
       }, 
@@ -410,6 +426,8 @@
         "product_name": "She's a Tease Volumizing Hair Spray",
      
         "brand":"Not Your Mother",
+
+        "product_description":"Adds texture and helps amplify volume for long lasting hairstyles; Great for thin and fine hair, or thick and curly hair",
      
         "price":"8.56"
       }, 
@@ -419,6 +437,8 @@
         "product_name": "Get Pump Volume Foam",
      
         "brand":"Designline",
+
+        "product_description":"ADDS vOLUME - This non- aerosol styling foam provides excellent volume and thickness to normal or fine hair",
      
         "price":"12.99"
       }, 
@@ -428,8 +448,10 @@
         "product_name": "Volumizing Mouse Extra Hold",
      
         "brand":"White Rain",
+
+        "product_description":"adds volume and has long lasting hold",
      
-        "price":"12.05"
+        "price":"4.90"
       }, 
           {
         "id": 36, 
@@ -437,8 +459,10 @@
         "product_name": "Style Volumizing Anti Humidity Hair Spray Extra Hold",
      
         "brand":"Garnier Fructis",
+
+        "product_description":"Volumizing hairspray provides 24 hour extra strong hold for body and lift",
      
-        "price":"6.36"
+        "price":"3.42"
       }, 
           {
         "id": 37, 
@@ -446,6 +470,8 @@
         "product_name": "Super Star Volumizing Hair Spray",
      
         "brand":"Bed Head",
+
+        "product_description":"",
      
         "price":"19.99"
       }, 
@@ -455,6 +481,8 @@
         "product_name": "Body Envy Volumizing Mouse With Citrus",
      
         "brand":"Herbal Essence",
+
+        "product_description":"Keeps volume all day long. Maximum-Hold, level 4 mousse keeps humidity and frizz at bay.",
      
         "price":"2.97"
       }, 
@@ -464,6 +492,8 @@
         "product_name": "Style Sexy Hair Blow it Up Volumizing Gel Foam",
      
         "brand":"Style Sexy Hair",
+
+        "product_description":"A humidity-resistant volumizing spray mousse that helps you create big volume by pumping up the root with extra hold.",
      
         "price":"11.29"
       }, 
@@ -473,6 +503,8 @@
         "product_name": "Weightless Volumizing Hair Spray",
      
         "brand":"Thicker Fuller Hair",
+
+        "product_description":"Adds volume to your locks. It does not weigh your hair down.",
      
         "price":"8.09"
       }
@@ -480,4 +512,3 @@
       ]
   
   }
-  
