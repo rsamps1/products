@@ -68,438 +68,238 @@
            "product_description":"Deeply cleans and removes heavy buildup; gently cleanses",
            "price":"4.97"
           },
-
           { "id": 5, 
-
             "product_name": "Quenching + Coconut Curls Shampoo",
-       
             "brand":"OGX",
-
             "product_description":"Unique blend of sulfate-free surfants for curl-quenching hydration",
-       
             "price":"5.74"
-       
            },
-
            { "id": 6, 
-
             "product_name": "Renewing Argan Oil Of Morocco Shampoo",
-       
             "brand":"OGX",
-
             "product_description":"Repair, restore and revitalize hair. ",
-       
             "price":"9.97"
-       
            },
-
            { 
             "id" : 7,
-      
            "product_name": "EverPure Sulfate Free Frizz Defy Conditioner",
-      
            "brand":"loreal",
-
            "product_description":"Deeply conditionns frizz-prone hair for humidity + frizz control, manageability ans smooth luminosity.",
-      
            "price":"6.72"
-      
           },
-
           {
             "id":10,
-      
            "product_name": "Coconut & Hibiscus Curl & shine Conditioner Sulfate free",
-      
            "brand":"Shea Moisture",
-
            "product_description":"Anti-rizz, moisture, and shine",
-      
            "price":"9.97"
-      
           },
-
           { "id": 13, 
-
             "product_name": "Quenching + Coconut Curls Conditioner",
-       
             "brand":"OGX",
-
             "product_description":"Drench your curls with this rich blend of nourishing coconut oil to enhance natural softness.",
-       
             "price":"5.74"
-       
            },
-
            { "id": 14, 
-
             "product_name": "Miracle Curls Curl-Defining Oil Hair Treatment with Jojoba Oil",
-       
             "brand":"Aussie",
-
             "product_description":"Use it to instanly hydrate parched strands and help stop split ends",
-       
             "price":"4.97"
-       
            },
-
            { "id": 16, 
-
             "product_name": "Shea Butter Leave-In Conditioner",
-        
             "brand":"Cantu",
-
             "product_description":"Provides intense moisture to leave hair soft and manageable",
-        
             "price":"5.97"
-        
            },
-
            { "id": 18, 
-
             "product_name": "Argon Oil Curl Activiator Creme",
-        
             "brand":"Creme of Nature",
-
             "product_description":"Instantly revives curls. Anti-frizz. Refreshes dry curls. Great for detangling.",
-        
             "price":"10.40"
-        
            },
-
            { "id": 20, 
-
             "product_name": "Sleek & Shine Intensely Smooth Leave-In Conditioning creme",
-        
             "brand":"garnier fructis",
-
             "product_description":"Formulated to support your hair's natural strength, help control frizz and eave your hair managable.",
-        
             "price":"3.99"
-        
            },
-
            {
             "id":23,
-        
              "product_name": "Coconut & Hibiscus curl Enhancing Smoothie",
-        
              "brand":"shea moisture",
-
              "product_description":"Nourishing styling aid for thick, curl hair defines curls, reduce frizz and smoothes hair for a soft, silky feel.",
-        
              "price":"8.90"
-        
           },
-
           { "id": 26, 
-
             "product_name": "Renewing Moroccan Argan Oil",
-       
             "brand":"OGX",
-
             "product_description":"Deeply heal, smooth and restore luster to damaged strands.",
-       
             "price":"5.49"
-       
            },
-
            { "id": 27, 
-
             "product_name": "Olive Oil Styling Gel",
-       
             "brand":"ECO Styler",
-
             "product_description":"Shines, nourishes, repairs and promotes hair growth. No flake, no tack, anti-itch hair styling product.",
-       
             "price":"2.97"
-       
            },
-    
            { "id": 28, 
-    
             "product_name": "Nourshing Coconut Oil Weightless Hydrating Oil Mist",
-       
             "brand":"OGX",
-
             "product_description":"Nourishes strands. Nydrating bamboo extracts adds shine and touchable softness",
-       
             "price":"5.49"
-       
            },
-    
            { "id": 29, 
-    
             "product_name": "100% Extra Virgin Coconunt Oil",
-       
             "brand":"Shea Moisture",
-
             "product_description":"Head-to-toe nourishing hydration. Soften and restore hair and skin.",
-       
             "price":"13.88"
-       
            }
-
     ],
-  
     "heavy-weight": 
-  
     [
-  
         { 
-            "id" : 3,
-      
+            "id" : 3, 
            "product_name": "Shea Butter for Natural Hair Sulfate Free Cleansing Creame Shampoo",
-      
            "brand":"Cantu",
-
            "product_description":"Deeply cleans and removes heavy buildup; gently cleanses",
-      
            "price":"4.97"
-      
           },
-
           { "id": 4, 
-
             "product_name": "Coconut & Hibiscus Curl & Shine Shampoo Sulfate free",
-       
             "brand":"Shea Moisture",
-
             "product_description":"hydrates and detngles",
-       
             "price":"9.97"
-       
            },
-      
-      
            { "id": 5, 
-      
             "product_name": "Quenching + Coconut Curls Shampoo",
-       
             "brand":"OGX",
-
             "product_description":"Unique blend  of sulfate-free sufactants for curl quencing hydration.",
-       
             "price":"5.74"
-       
            },
-
            {
             "id":8,
-      
            "product_name": "Paraben Free Total Miracle Conditioner w/ Apricot",
-      
            "brand":"Aussie",
-
            "product_description":"Use it to strengthen, protect, smooth and hydrate hair",
-      
            "price":"4.94"
-      
           },
-
           {
             "id":10,
-      
            "product_name": "Coconut & Hibiscus Curl & shine Conditioner Sulfate free",
-      
            "brand":"Shea Moisture",
-
            "product_description":"lightweight daily conditioner. Restores moisture.",
-      
            "price":"9.97"
-      
           },
-
           { "id": 11, 
-
             "product_name": "Renewing Argan Oil Of Morocco Condtioner",
-       
             "brand":"OGX",
-
             "product_description":"Penetrates the hair restoring shine and softness while stregnthing and creating soft, seductive, silky perfetion.",
-
             "price":"5.74"
-       
           },
-      
           { "id": 12, 
-      
             "product_name": "3 Miracle Moist Deep Conditioning Treatment",
-       
             "brand":"Aussie",
-
             "product_description":"Deep conditioning for strong hair, use daily or once a week.",
-       
             "price":"4.94"
-       
            },
-
            {
             "id": 15,
-        
-             "product_name": "Coconut Oil Formula Coconut Oil Leave-in Conditioner",
-        
+             "product_name": "Coconut Oil Formula Coconut Oil Leave-in Conditioner",        
              "brand":"Palmer's",
-
              "product_description":"Instantly detangles, putting an end to tugging and pulling at knotty, unruly hair.",
-        
              "price":"5.97"
-        
           },
-
           { "id": 17, 
-
             "product_name": "Olive Oil Incredibly Rich Oil Moisturizing Hair Lotion",
-        
             "brand":"ORS",
-
             "product_description":"Conditions while providing maximun heat protection. Provides long-lasting shine with a natural, non-greasy, non-sticky formula.",
-        
             "price":"4.97"
-        
            },
-
            {
             "id":23,
-        
              "product_name": "Coconut & Hibiscus curl Enhancing Smoothie",
-        
              "brand":"shea moisture",
-
              "product_description":"Defines curls. Reduces frizz.",
-        
              "price":"8.90"
-        
           },
-
           { "id": 25, 
-
             "product_name": "Jamaican Black caster Oil",
-       
             "brand":"Tropic Isle Living",
-
             "product_description":"Stimulates hair growth. Cleanse scalp of parasites and toxins that damages hair. ",
-       
             "price":"6.99"
-       
            }
-    
-  
       ],
-
     "volume":[
       {
         "id": 31, 
-  
         "product_name": "Root Pump Plus Humidity Resistance Volumizing Spray",
-     
         "brand":"Big Sexy Hair",
-
         "product_description":"A humidity-resistant volumizing spray mousse that helps you create big volume by pumping up the roor with extra hold.",
-     
         "price":"14.62"
       }, 
           {
         "id": 32, 
-  
         "product_name": "Sky-Hi Volume Volumizing Mouse",
-     
         "brand":"Garnier Fructis",
-
         "product_description":"Volumizing mousse gives hair high reaching volume and 24-hour hold",
-     
         "price":"3.42"
       }, 
           {
         "id": 33, 
-  
         "product_name": "She's a Tease Volumizing Hair Spray",
-     
         "brand":"Not Your Mother",
-
         "product_description":"Adds texture and helps amplify volume for long lasting hairstyles; Great for thin and fine hair, or thick and curly hair",
-     
         "price":"8.56"
       }, 
           {
         "id": 34, 
-  
         "product_name": "Get Pump Volume Foam",
-     
         "brand":"Designline",
-
         "product_description":"ADDS vOLUME - This non- aerosol styling foam provides excellent volume and thickness to normal or fine hair",
-     
         "price":"12.99"
       }, 
           {
         "id": 35, 
-  
         "product_name": "Volumizing Mouse Extra Hold",
-     
         "brand":"White Rain",
-
         "product_description":"adds volume and has long lasting hold",
-     
         "price":"4.90"
       }, 
           {
         "id": 36, 
-  
         "product_name": "Style Volumizing Anti Humidity Hair Spray Extra Hold",
-     
         "brand":"Garnier Fructis",
-
         "product_description":"Volumizing hairspray provides 24 hour extra strong hold for body and lift",
-     
         "price":"3.42"
       }, 
           {
         "id": 37, 
-  
         "product_name": "Super Star Volumizing Hair Spray",
-     
         "brand":"Bed Head",
-
         "product_description":"",
-     
         "price":"19.99"
       }, 
           {
         "id": 38, 
-  
         "product_name": "Body Envy Volumizing Mouse With Citrus",
-     
         "brand":"Herbal Essence",
-
         "product_description":"Keeps volume all day long. Maximum-Hold, level 4 mousse keeps humidity and frizz at bay.",
-     
         "price":"2.97"
       }, 
               {
         "id": 39, 
-  
         "product_name": "Style Sexy Hair Blow it Up Volumizing Gel Foam",
-     
         "brand":"Style Sexy Hair",
-
         "product_description":"A humidity-resistant volumizing spray mousse that helps you create big volume by pumping up the root with extra hold.",
-     
         "price":"11.29"
       }, 
               {
         "id": 40, 
-  
         "product_name": "Weightless Volumizing Hair Spray",
-     
         "brand":"Thicker Fuller Hair",
-
         "product_description":"Adds volume to your locks. It does not weigh your hair down.",
-     
         "price":"8.09"
       }
-      
       ]
-  
   }
-  
